@@ -1,31 +1,6 @@
-export class Advertisement {
-  constructor(id, title, detail, startDate, endDate) {
-    this.id = id;
-    this.title = title;
-    this.detail = detail;
-    this.startDate = startDate;
-    this.endDate = endDate;t
-    this.currentBanner = null;
-  }
-
-  showIn(banner) {
-    this.currentBanner = banner;
-  }
-}
-
-export class Banner {
-  constructor() {
-    this.ads = null;
-  }
-
-  setAds(ads) {
-    this.ads = ads;
-  }
-}
-
 // Problem 1: implement this function to check if the schedule of advertisements fits with the number of banner slots? 
 // reture true or false
-export const isAdvertisementBannerScheduleFit = (numberOfBannerSlot, advertisements) => {
+export const isAdvertisementBannerScheduleFit = (numberOfBannerSlot, advertisementSchedule) => {
   // TODO: implement this function
   return undefined;
 };
