@@ -1,106 +1,76 @@
 [
   {
-    "id": 7832454550,
     "title": "Ads 1",
-    "detail": "Banner 1",
     "startDate": 1,
     "endDate": 6
   },
   {
-    "id": 7832454563,
     "title": "Ads 2",
-    "detail": "Banner 14",
     "startDate": 22,
     "endDate": 25
   },
   {
-    "id": 7832454551,
     "title": "Ads 3",
-    "detail": "Banner 2",
     "startDate": 5,
     "endDate": 16
   },
   {
-    "id": 7832454552,
     "title": "Ads 4",
-    "detail": "Banner 3",
     "startDate": 11,
     "endDate": 22
   },
   {
-    "id": 7832454553,
     "title": "Ads 5",
-    "detail": "Banner 4",
     "startDate": 16,
     "endDate": 25
   },
   {
-    "id": 7832454554,
     "title": "Ads 6",
-    "detail": "Banner 5",
     "startDate": 12,
     "endDate": 22
   },
   {
-    "id": 7832454555,
     "title": "Ads 7",
-    "detail": "Banner 6",
     "startDate": 24,
     "endDate": 27
   },
   {
-    "id": 7832454556,
     "title": "Ads 8",
-    "detail": "Banner 7",
     "startDate": 1,
     "endDate": 30
   },
   {
-    "id": 7832454564,
     "title": "Ads 9",
-    "detail": "Banner 15",
     "startDate": 26,
     "endDate": 27
   },
   {
-    "id": 7832454557,
     "title": "Ads 10",
-    "detail": "Banner 8",
     "startDate": 10,
     "endDate": 12
   },
   {
-    "id": 7832454558,
     "title": "Ads 11",
-    "detail": "Banner 9",
     "startDate": 26,
     "endDate": 28
   },
   {
-    "id": 7832454559,
     "title": "Ads 12",
-    "detail": "Banner 10",
     "startDate": 4,
     "endDate": 6
   },
   {
-    "id": 7832454560,
     "title": "Ads 13",
-    "detail": "Banner 11",
     "startDate": 5,
     "endDate": 6
   },
   {
-    "id": 7832454561,
     "title": "Ads 14",
-    "detail": "Banner 12",
     "startDate": 7,
     "endDate": 11
   },
   {
-    "id": 7832454562,
     "title": "Ads 15",
-    "detail": "Banner 13",
     "startDate": 20,
     "endDate": 21
   }

@@ -1,43 +1,31 @@
 [
   {
-    "id": 7832454550,
     "title": "Ads 1",
-    "detail": "Banner 1",
     "startDate": 1,
     "endDate": 2
   },
   {
-    "id": 7832454551,
     "title": "Ads 2",
-    "detail": "Banner 2",
     "startDate": 2,
     "endDate": 3
   },
   {
-    "id": 7832454552,
     "title": "Ads 3",
-    "detail": "Banner 3",
     "startDate": 3,
     "endDate": 4
   },
   {
-    "id": 7832454553,
     "title": "Ads 4",
-    "detail": "Banner 4",
     "startDate": 4,
     "endDate": 5
   },
   {
-    "id": 7832454554,
     "title": "Ads 5",
-    "detail": "Banner 5",
     "startDate": 5,
     "endDate": 6
   },
   {
-    "id": 7832454555,
     "title": "Ads 5",
-    "detail": "Banner 5",
     "startDate": 1,
     "endDate": 6
   }
